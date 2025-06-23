@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\Society\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Society\project\obj\Debug\project.check.resources
+C:\Users\DELL\Documents\Society\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\DELL\Documents\Society\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Society\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Society\project\bin\Debug\project.exe.config
+C:\Users\DELL\Documents\Society\project\bin\Debug\project.exe
+C:\Users\DELL\Documents\Society\project\bin\Debug\project.pdb
+C:\Users\DELL\Documents\Society\project\obj\Debug\project.exe
+C:\Users\DELL\Documents\Society\project\obj\Debug\project.pdb
