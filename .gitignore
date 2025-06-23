@@ -1,7 +1,4 @@
 # Build outputs
-bin/
-obj/
-.vs/
 *.exe
 *.dll
 *.pdb
